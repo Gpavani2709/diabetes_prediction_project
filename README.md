@@ -1,1 +1,0 @@
-# diabetes_prediction_project
