@@ -103,5 +103,7 @@ This project solidifies my practical understanding of full-cycle Data Science pr
 
 Final output : 
 
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/5833cd5b-3b6a-4a46-a78b-b2251c3e6fc7" />
+
 <img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/d43838e1-38fe-4d2a-83a4-5e056f2acbf4" />
 
